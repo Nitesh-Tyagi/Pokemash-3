@@ -1,0 +1,15 @@
+
+	1. INPUT
+
+Upload CSV file
+Create Table
+Save Data from CSV file to Table
+
+__________________________
+
+	2. Database Handling
+
+
+__________________________
+
+	3. Output
